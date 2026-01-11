@@ -6,7 +6,7 @@ The program manages a car inventory of up to 10 cars, with full support for:
 ✔ Purchasing cars  
 ✔ Selling cars  
 ✔ Displaying car details  
-✔ Profit/Loss reporting  
+✔ Profit/Loss reporting 
 ✔ Bargaining logic  
 ✔ Color-coded console output  
 
