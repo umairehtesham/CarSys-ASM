@@ -61,8 +61,6 @@ Libraries used:
 ---
 
 👤 Author
-**Umair Ehtesham**  
-**Rumaesa Faisal Seth**
-**Ameerah** 
+**Umair Ehtesham,Rumaesa Faisal Seth,Ameerah**  
 GitHub: https://github.com/umairertesham
 
